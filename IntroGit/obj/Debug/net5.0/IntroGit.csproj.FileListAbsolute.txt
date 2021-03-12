@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.AssemblyInfo.cs
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.exe
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.deps.json
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.runtimeconfig.json
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.dll
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\ref\IntroGit.dll
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\bin\Debug\net5.0\IntroGit.pdb
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.dll
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\ref\IntroGit.dll
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.pdb
+C:\Users\carlo\Desktop\POOGit\Aloha_POO012021\IntroGit\obj\Debug\net5.0\IntroGit.genruntimeconfig.cache
